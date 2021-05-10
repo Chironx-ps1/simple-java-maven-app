@@ -33,6 +33,10 @@
         </configuration>
       </plugin>
       <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>2.3.2</version>
+      </plugin>
+      <plugin>
       <groupId>com.atlassian.maven.plugins</groupId>
         <artifactId>clover-maven-plugin</artifactId>
         <configuration>
