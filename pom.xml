@@ -32,6 +32,7 @@
           </archive>
         </configuration>
       </plugin>
+      <plugin>
       <groupId>com.atlassian.maven.plugins</groupId>
         <artifactId>clover-maven-plugin</artifactId>
         <configuration>
